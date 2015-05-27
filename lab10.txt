@@ -1,0 +1,28 @@
+Lab10: files (text and binary)
+===
+  
+Put your completed TiltDemo.java in a folder lab10
+in a file lab10.zip and submit via Blackboard. 
+Do not submit any tiltmeter data files.
+  
+All classes for this lab must be in a package named lab10.
+  
+---
+TiltDemo.java
+  
+Complete all methods as specified. You will need to read 
+documentation for the class edu.mines.jtk.dsp.Sampling 
+in the Mines Java Toolkit.
+  
+I recommend that you complete the methods in the order in 
+which they appear in the class TiltDemo. Initially, 
+comment out any calls to methods not yet completed.
+  
+In your program, you must close any file that you open.
+  
+Check your method despike by zooming in the plot of input 
+and output sequences. You zoom by clicking and dragging in 
+the plot or its axes.
+  
+Note how the plots of tiltmeter data are constructed. 
+You may want to use classes such as SimplePlot again.
